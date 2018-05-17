@@ -12,14 +12,20 @@ main {
 }
 
 .nebula1, .nebula2 {
-	height: 310px;
-	width: 310px;
+	height: 300px;
+	width: 300px;
 }
 
 .nebula1 {
 	float: left;
+	margin-right: 15px;
+	margin-top: 15px;
+	margin-bottom: 15px;
 }
 
 .nebula2 {
 	float: right;
+	margin-left: 15px;
+	margin-top: 15px;
+	margin-bottom: 15px;
 }
